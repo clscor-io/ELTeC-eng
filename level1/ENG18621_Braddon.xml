@@ -7,8 +7,8 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title>Lady Audley's Secret : ELTeC edition</title>
-    <author ref="https://viaf.org/viaf/66826682/">Braddon, Mary Elizabeth (1835-1915).</author>
+    <title ref="wikidata:Q2738351">Lady Audley's Secret : ELTeC edition</title>
+    <author ref="https://viaf.org/viaf/66826682/ wikidata:Q437184">Braddon, Mary Elizabeth (1835-1915).</author>
     <respStmt>
      <resp>ELTeC conversion</resp>
      <name>Lou Burnard</name>

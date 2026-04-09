@@ -7,8 +7,8 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>The Life and Adventures of Michael Armstrong : ELTeC edition</title>
-				<author ref="https://viaf.org/viaf/34551336/">Trollope, Frances Milton (1780-1863)</author>
+				<title ref="wikidata:Q111271919">The Life and Adventures of Michael Armstrong : ELTeC edition</title>
+				<author ref="https://viaf.org/viaf/34551336/ wikidata:Q271961">Trollope, Frances Milton (1780-1863)</author>
 				<respStmt>
 					<resp>ELTeC conversion</resp>
 					<name>Lou Burnard</name>

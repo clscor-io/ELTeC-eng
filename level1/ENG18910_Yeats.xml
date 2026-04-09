@@ -7,8 +7,8 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title>John Sherman and Dhoya : ELTeC edition</title>
-    <author ref="https://viaf.org/viaf/46768718/">Yeats, William Butler (1865–1939)</author>
+    <title ref="wikidata:Q111271891">John Sherman and Dhoya : ELTeC edition</title>
+    <author ref="https://viaf.org/viaf/46768718/ wikidata:Q40213">Yeats, William Butler (1865–1939)</author>
     <respStmt>
      <resp>ELTeC conversion</resp>
      <name>Lou Burnard</name>

@@ -7,8 +7,8 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title>Tono-bungay: ELTeC edition</title>
-    <author ref="https://viaf.org/viaf/97006424/">Wells, Herbert George (1866-1946)</author>
+    <title ref="wikidata:Q1535422">Tono-bungay: ELTeC edition</title>
+    <author ref="https://viaf.org/viaf/97006424/ wikidata:Q42511">Wells, Herbert George (1866-1946)</author>
     <respStmt>
      <resp>Original HTML</resp>
      <name>John Bean</name>

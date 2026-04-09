@@ -7,8 +7,8 @@
  <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <fileDesc>
    <titleStmt>
-    <title>The Daughters of Danaus : ELTeC edition</title>
-    <author ref="https://viaf.org/viaf/24650758/">Caird, Mona (1854-1932)</author>
+    <title ref="wikidata:Q111301792">The Daughters of Danaus : ELTeC edition</title>
+    <author ref="https://viaf.org/viaf/24650758/ wikidata:Q6897658">Caird, Mona (1854-1932)</author>
     <respStmt>
      <resp>Transcribed, encoded and edited by </resp>
      <name>Perry Willett</name>

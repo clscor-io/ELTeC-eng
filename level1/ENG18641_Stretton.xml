@@ -7,8 +7,8 @@
      <teiHeader>
           <fileDesc>
                <titleStmt>
-                    <title>Fern's Hollow : ELTec edition : ELTeC edition</title>
-                    <author ref="https://viaf.org/viaf/29892399/">Stretton, Hesba [pseud Sara Smith]
+                    <title ref="wikidata:Q111271885">Fern's Hollow : ELTec edition : ELTeC edition</title>
+                    <author ref="https://viaf.org/viaf/29892399/ wikidata:Q4443905">Stretton, Hesba [pseud Sara Smith]
                          (1832-1911).</author>
                     <respStmt>
                          <resp>ELTeC conversion</resp>

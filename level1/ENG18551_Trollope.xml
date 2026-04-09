@@ -7,8 +7,8 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title>The Warden : ELTeC edition</title>
-    <author ref="https://viaf.org/viaf/61683295/">Trollope, Anthony (1815-1882)</author>
+    <title ref="wikidata:Q3818437">The Warden : ELTeC edition</title>
+    <author ref="https://viaf.org/viaf/61683295/ wikidata:Q318399">Trollope, Anthony (1815-1882)</author>
     <respStmt>
      <resp>ELTeC conversion</resp>
      <name>Lou Burnard</name>

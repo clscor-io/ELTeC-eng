@@ -7,8 +7,8 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title>The diary of a nobody : ELTeC edition</title>
-    <author ref="https://viaf.org/viaf/64144601/">Grossmith, George (1847-1912)</author>
+    <title ref="wikidata:Q111271912">The diary of a nobody : ELTeC edition</title>
+    <author ref="https://viaf.org/viaf/64144601/ wikidata:Q1564825">Grossmith, George (1847-1912)</author>
     <respStmt>
      <resp>Original HTML version</resp>
      <name>Louise Hope</name>

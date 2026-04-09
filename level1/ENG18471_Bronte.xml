@@ -7,8 +7,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Wuthering Heights : ELTeC edition</title>
-                <author ref="https://viaf.org/viaf/97097302/">Brontë, Emily (1818-1848)</author>
+                <title ref="wikidata:Q202975">Wuthering Heights : ELTeC edition</title>
+                <author ref="https://viaf.org/viaf/97097302/ wikidata:Q80137">Brontë, Emily (1818-1848)</author>
             </titleStmt>
             <extent>
                 <measure unit="words">115398</measure>

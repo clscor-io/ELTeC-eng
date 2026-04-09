@@ -7,8 +7,8 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title>Mark Rutherford's Deliverance : ELTec edition : ELTeC edition</title>
-    <author ref="https://viaf.org/viaf/79398669/">White, William Hale (1831-1913).</author>
+    <title ref="wikidata:Q111271894">Mark Rutherford's Deliverance : ELTec edition : ELTeC edition</title>
+    <author ref="https://viaf.org/viaf/79398669/ wikidata:Q604661">White, William Hale (1831-1913).</author>
     <respStmt>
      <resp>ELTeC conversion</resp>
      <name>Lou Burnard</name>

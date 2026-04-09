@@ -7,8 +7,8 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title>The Farringdons : ELTeC edition</title>
-    <author ref="https://viaf.org/viaf/72533655/">Fowler, Ellen Thorneycroft (1860-1929).</author>
+    <title ref="wikidata:Q111271913">The Farringdons : ELTeC edition</title>
+    <author ref="https://viaf.org/viaf/72533655/ wikidata:Q5365036">Fowler, Ellen Thorneycroft (1860-1929).</author>
     <respStmt>
      <resp>ELTeC conversion</resp>
      <name>Lou Burnard</name>

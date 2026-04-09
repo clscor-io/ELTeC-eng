@@ -7,8 +7,8 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title>Dombey and Son : ELTeC edition</title>
-    <author ref="https://viaf.org/viaf/88666393/">Dickens, Charles (1812-1870)</author>
+    <title ref="wikidata:Q963659">Dombey and Son : ELTeC edition</title>
+    <author ref="https://viaf.org/viaf/88666393/ wikidata:Q5686">Dickens, Charles (1812-1870)</author>
     <respStmt>
      <resp>creation of HTML version</resp>
      <name>Bibliomania.com</name>

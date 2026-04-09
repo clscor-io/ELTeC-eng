@@ -7,8 +7,8 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title>Middlemarch: ELTeC edition </title>
-    <author ref="https://viaf.org/viaf/89000553/">Eliot, George [pseud.] (1819-1880)</author>
+    <title ref="wikidata:Q313129">Middlemarch: ELTeC edition </title>
+    <author ref="https://viaf.org/viaf/89000553/ wikidata:Q131333">Eliot, George [pseud.] (1819-1880)</author>
    </titleStmt>
    <extent>
     <measure unit="words">316163</measure>

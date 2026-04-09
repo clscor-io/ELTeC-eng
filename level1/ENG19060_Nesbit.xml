@@ -7,8 +7,8 @@
  <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <fileDesc>
    <titleStmt>
-    <title>The Story of the Amulet : ELTeC edition</title>
-    <author ref="https://viaf.org/viaf/7394811/">Nesbit, Edith (1858-1924)</author>
+    <title ref="wikidata:Q7766831">The Story of the Amulet : ELTeC edition</title>
+    <author ref="https://viaf.org/viaf/7394811/ wikidata:Q231708">Nesbit, Edith (1858-1924)</author>
     <respStmt>
      <resp>Preliminary transcription by</resp>
      <name>Jo Churcher </name>

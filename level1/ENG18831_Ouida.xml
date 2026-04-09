@@ -7,8 +7,8 @@
  <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <fileDesc>
    <titleStmt>
-    <title>Folle-Farine : ELTeC edition</title>
-    <author ref="https://viaf.org/viaf/34490941/">Ouida, [pseud.] (1839-1908)</author>
+    <title ref="wikidata:Q111271886">Folle-Farine : ELTeC edition</title>
+    <author ref="https://viaf.org/viaf/34490941/ wikidata:Q258001">Ouida, [pseud.] (1839-1908)</author>
     <respStmt>
      <resp>Transcribed and encoded by</resp>
      <name>Kathryn Benedict</name>

@@ -7,8 +7,8 @@
  <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <fileDesc>
    <titleStmt>
-    <title>The Carissima : ELTeC edition</title>
-    <author ref="https://viaf.org/viaf/9890134/">Malet, Lucas (1852-1931)</author>
+    <title ref="wikidata:Q111271909">The Carissima : ELTeC edition</title>
+    <author ref="https://viaf.org/viaf/9890134/ wikidata:Q4965106">Malet, Lucas (1852-1931)</author>
     <respStmt>
      <resp>Scanned, encoded and proofed by </resp>
      <name>Jessica Loving</name>

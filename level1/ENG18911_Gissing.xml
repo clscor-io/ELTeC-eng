@@ -7,8 +7,8 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title>New Grub Street: A Novel : ELTeC edition</title>
-    <author ref="https://viaf.org/viaf/59083174/">Gissing, George (1857-1903).</author>
+    <title ref="wikidata:Q7007870">New Grub Street: A Novel : ELTeC edition</title>
+    <author ref="https://viaf.org/viaf/59083174/ wikidata:Q369790">Gissing, George (1857-1903).</author>
     <respStmt>
      <resp>ELTeC conversion</resp>
      <name>Lou Burnard</name>

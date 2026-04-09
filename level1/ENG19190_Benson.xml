@@ -7,8 +7,8 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title>Living Alone : ELTeC edition</title>
-    <author ref="https://viaf.org/viaf/90724564/">Benson, Stella (1892-1933)</author>
+    <title ref="wikidata:Q111301788">Living Alone : ELTeC edition</title>
+    <author ref="https://viaf.org/viaf/90724564/ wikidata:Q2342103">Benson, Stella (1892-1933)</author>
     <respStmt>
      <resp>ELTeC conversion</resp>
      <name>Lou Burnard</name>

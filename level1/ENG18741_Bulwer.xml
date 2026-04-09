@@ -7,8 +7,8 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title>The Parisians : ELTeC edition</title>
-    <author ref="https://viaf.org/viaf/99871326/">Lytton, Edward Bulwer (1803-1873)</author>
+    <title ref="wikidata:Q111271926">The Parisians : ELTeC edition</title>
+    <author ref="https://viaf.org/viaf/99871326/ wikidata:Q318462">Lytton, Edward Bulwer (1803-1873)</author>
     <respStmt>
      <resp>ELTeC conversion</resp>
      <name>Lou Burnard</name>

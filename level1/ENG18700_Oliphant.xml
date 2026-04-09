@@ -7,8 +7,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Piccadilly : ELTeC edition</title>
-                <author ref="https://viaf.org/viaf/17265739/">Oliphant, Laurence (1829-1888)</author>
+                <title ref="wikidata:Q111271901">Piccadilly : ELTeC edition</title>
+                <author ref="https://viaf.org/viaf/17265739/ wikidata:Q267481">Oliphant, Laurence (1829-1888)</author>
                 <respStmt>
                     <resp>ELTeC conversion</resp>
                     <name>Lou Burnard</name>

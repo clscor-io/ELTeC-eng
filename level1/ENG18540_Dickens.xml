@@ -7,8 +7,8 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title>Hard Times: For These Times : ELTeC edition</title>
-    <author ref="https://viaf.org/viaf/88666393/">Dickens, Charles (1812-1870)</author>
+    <title ref="wikidata:Q82956494">Hard Times: For These Times : ELTeC edition</title>
+    <author ref="https://viaf.org/viaf/88666393/ wikidata:Q5686">Dickens, Charles (1812-1870)</author>
     <respStmt>
      <resp>ELTeC conversion</resp>
      <name>Lou Burnard</name>

@@ -7,8 +7,8 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title>A Devotee: An Episode in the Life of a Butterfly : ELTec edition : ELTeC edition</title>
-    <author ref="https://viaf.org/viaf/40510526/">Cholmondeley, Mary (1859-1925).</author>
+    <title ref="wikidata:Q111301776">A Devotee: An Episode in the Life of a Butterfly : ELTec edition : ELTeC edition</title>
+    <author ref="https://viaf.org/viaf/40510526/ wikidata:Q4942781">Cholmondeley, Mary (1859-1925).</author>
     <respStmt>
      <resp>ELTeC conversion</resp>
      <name>Lou Burnard</name>

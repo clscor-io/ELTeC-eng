@@ -7,8 +7,8 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title>The Hosts of the Lord : ELTeC edition</title>
-    <author ref="https://viaf.org/viaf/211452326/">Steel, Flora Annie (1847-1929).</author>
+    <title ref="wikidata:Q111271917">The Hosts of the Lord : ELTeC edition</title>
+    <author ref="https://viaf.org/viaf/211452326/ wikidata:Q5460275">Steel, Flora Annie (1847-1929).</author>
     <respStmt>
      <resp>ELTeC conversion</resp>
      <name>Lou Burnard</name>

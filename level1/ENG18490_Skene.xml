@@ -7,8 +7,8 @@
     <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
         <fileDesc>
             <titleStmt>
-                <title>The Inheritance of Evil : ELTeC edition</title>
-                <author ref="https://viaf.org/viaf/26018946/">Skene, Felicia (1821-1899)</author>
+                <title ref="wikidata:Q111271918">The Inheritance of Evil : ELTeC edition</title>
+                <author ref="https://viaf.org/viaf/26018946/ wikidata:Q1403036">Skene, Felicia (1821-1899)</author>
                 <respStmt>
                     <resp>Transcribed, encoded and proofed by </resp>
                     <name>Tara Wright</name>

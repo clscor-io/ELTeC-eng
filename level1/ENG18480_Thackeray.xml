@@ -7,8 +7,8 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title>Vanity Fair: A Novel without a Hero: ELTeC edition</title>
-    <author ref="https://viaf.org/viaf/95208604/">Thackeray, William Makepeace (1811-1863)</author>
+    <title ref="wikidata:Q612836">Vanity Fair: A Novel without a Hero: ELTeC edition</title>
+    <author ref="https://viaf.org/viaf/95208604/ wikidata:Q167768">Thackeray, William Makepeace (1811-1863)</author>
    </titleStmt>
    <extent>
     <measure unit="words">298740</measure>

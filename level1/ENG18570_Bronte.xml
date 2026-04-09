@@ -7,8 +7,8 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title>The Professor: A Tale : ELTec edition : ELTeC edition</title>
-    <author ref="https://viaf.org/viaf/71388025/">Brontë, Charlotte (1816-1855).</author>
+    <title ref="wikidata:Q762203">The Professor: A Tale : ELTec edition : ELTeC edition</title>
+    <author ref="https://viaf.org/viaf/71388025/ wikidata:Q127332">Brontë, Charlotte (1816-1855).</author>
     <respStmt>
      <resp>ELTeC conversion</resp>
      <name>Lou Burnard</name>

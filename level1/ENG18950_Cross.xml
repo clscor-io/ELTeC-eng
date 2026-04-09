@@ -7,8 +7,8 @@
  <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <fileDesc>
    <titleStmt>
-    <title>The Woman Who Didn't : ELTeC edition</title>
-    <author ref="https://viaf.org/viaf/67411362/">Cross, Victoria (1868-1952)</author>
+    <title ref="wikidata:Q111271934">The Woman Who Didn't : ELTeC edition</title>
+    <author ref="https://viaf.org/viaf/67411362/ wikidata:Q567045">Cross, Victoria (1868-1952)</author>
     <respStmt>
      <resp>Transcribed, encoded, and proofed by </resp>
      <name>Jessica Loving</name>

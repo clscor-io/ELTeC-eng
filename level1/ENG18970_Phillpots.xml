@@ -7,8 +7,8 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title>Lying Prophets: ELTeC edition</title>
-    <author ref="https://viaf.org/viaf/56811483/">Phillpotts, Eden (1862-1960)</author>
+    <title ref="wikidata:Q111271893">Lying Prophets: ELTeC edition</title>
+    <author ref="https://viaf.org/viaf/56811483/ wikidata:Q1283557">Phillpotts, Eden (1862-1960)</author>
     <respStmt>
      <resp>ELTeC conversion</resp>
      <name>Lou Burnard</name>

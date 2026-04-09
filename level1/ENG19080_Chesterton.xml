@@ -8,8 +8,8 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title>The man who was Thursday : ELTeC edition</title>
-    <author ref="https://viaf.org/viaf/14767719/">Chesterton, Gilbert Keith (1874-1936)</author>
+    <title ref="wikidata:Q111301794">The man who was Thursday : ELTeC edition</title>
+    <author ref="https://viaf.org/viaf/14767719/ wikidata:Q183167">Chesterton, Gilbert Keith (1874-1936)</author>
    </titleStmt>
    <extent>
     <measure unit="words">57988</measure>

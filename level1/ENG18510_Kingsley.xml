@@ -7,8 +7,8 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title>Yeast: A Problem : ELTeC edition</title>
-    <author ref="https://viaf.org/viaf/27081838/">Kingsley, Charles (1819-1875)</author>
+    <title ref="wikidata:Q17059277">Yeast: A Problem : ELTeC edition</title>
+    <author ref="https://viaf.org/viaf/27081838/ wikidata:Q353238">Kingsley, Charles (1819-1875)</author>
     <respStmt>
      <resp>ELTeC conversion</resp>
      <name>Lou Burnard</name>

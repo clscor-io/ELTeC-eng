@@ -7,8 +7,8 @@
  <teiHeader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <fileDesc>
    <titleStmt>
-    <title>Red as a rose is she : ELTeC edition</title>
-    <author ref="https://viaf.org/viaf/45106836/">Broughton, Rhoda (1840-1920)</author>
+    <title ref="wikidata:Q111301180">Red as a rose is she : ELTeC edition</title>
+    <author ref="https://viaf.org/viaf/45106836/ wikidata:Q449136">Broughton, Rhoda (1840-1920)</author>
     <respStmt>
      <resp>Encoded By</resp>
      <name>Nicholae Cline.</name>
